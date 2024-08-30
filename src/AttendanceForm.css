@@ -1,0 +1,50 @@
+.studentData input {
+    padding: 10px;
+    margin-right: 15px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 20%;
+  }
+  
+  .studentData input:focus {
+    outline: none;
+  }
+  
+  table {
+    width: 80%;
+    margin: 50px auto;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  thead {
+    background-color: teal;
+    color: white;
+  }
+  
+  .btn-success {
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .btn-danger {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  
